@@ -3,7 +3,7 @@ import { ANALYZING_INSTRUCTION_TEMPLATE } from "@/prompts/analyzing";
 import axios from "axios";
 
 const API_KEY =
-  "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";
+  "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";
 const API_URL = "https://openrouter.ai/api/v1/chat/completions";
 
 export class AnalyzingService {
